@@ -1,5 +1,6 @@
 # CS210
 SNHU CS210 Course Work
+
 1.) Summarize the project and what problem it was solving.
 
 2.) What did you do particularly well?
